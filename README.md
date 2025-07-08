@@ -72,30 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlawSimulation&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlawSimulation&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Activity & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SlawSimulation&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SlawSimulation&theme=algolia" />
-</p>
-
----
-
 ### 📣 Let's Connect
 
 - 🐦 Twitter: [@SlawSimulation](https://twitter.com/SlawSimulation)
@@ -104,3 +80,6 @@
 - 🎵 Music: [SkyLek on Spotify](https://open.spotify.com/artist/4W0CzPzzNaZzQdZwLUcxIE) | [SoundCloud](https://soundcloud.com/skylek)
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlawSimulation&layout=compact&theme=tokyonight" />
+
