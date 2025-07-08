@@ -46,7 +46,7 @@
 
 ### 🗺️ Project Roadmap
 
-#### 🕹️ **DQRetro**
+#### 🕹️ **DQRetro Community Website**
 - [ ] Setup Start.gg API and successfully working
 - [ ] Build landing page & match archive
 - [ ] Add player/team bios & event schedule
