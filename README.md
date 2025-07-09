@@ -47,17 +47,17 @@
 ### 🗺️ Project Roadmap
 
 #### 🕹️ **DQRetro Community Website**
-- [ ] Setup Start.gg API and successfully working
-- [ ] Build landing page & match archive
-- [ ] Add player/team bios & event schedule
-- [ ] Twitch overlay tools (scoreboard, notifications, Tekken Ball HUD)
-- [ ] OBS control scripts for smoother stream operation
+  - [ ] Setup Start.gg API and successfully working
+  - [ ] Build landing page & match archive
+  - [ ] Add player/team bios & event schedule
+  - [ ] Twitch overlay tools (scoreboard, notifications, Tekken Ball HUD)
+  - [ ] OBS control scripts for smoother stream operation
 #### 🏁 **iRacing Telemetry Overlay (C#)**
-- [ ] Redesign WPF UI for modern OBS compatibility
-- [ ] Add real-time data parsing from iRacing SDK
-- [ ] Build modular widgets: speed, gear, lap time, position into readable and updatable RAW .txt or JSON files
-- [ ] WebSocket output for use with browser sources in OBS
-- [ ] Compare features with RaceLabs & improve UX
+  - [ ] Redesign WPF UI for modern OBS compatibility
+  - [ ] Add real-time data parsing from iRacing SDK
+  - [ ] Build modular widgets: speed, gear, lap time, position into readable and updatable RAW .txt or JSON files
+  - [ ] WebSocket output for use with browser sources in OBS
+  - [ ] Compare features with RaceLabs & improve UX
 #### 🖼️ **Game Overlay for Twitch/YouTube**
   **Console Overlay Projects:**
   - [x] Nintendo Gamecube Overlay (4:3)
@@ -66,16 +66,13 @@
 
   **Portable Console Overlay Projects:**
   - [x] Nintendo 3DS Overlay
-  - [ ] Nintendo Gameboy Color Overlay
-  - [ ] Nintendo Gameboy Advanced Overlay
-  - [ ] Playstation Portable (PSP) Overlay
-  - [ ] Playstation VITA Overlay
+  - [ ] Nintendo DS Overlay
+  - [ ] Nintendo Gameboy Color, Advanced
+  - [ ] Playstation Portable (PSP), Vita
 
   **Personal Overlay Projects:**
-  - [x] ProtonicCobra's Overlay Fullscreen
-  - [x] ProtonicCobra's Overlay
-  - [ ] SlawSimulation's Overlay Fullscreen
-  - [ ] SlawSimulation's Overlay
+  - [x] ProtonicCobra's OG & Alt Main & Fullscreen Overlay
+  - [ ] SlawSimulation's OG & Alt Main & Fullscreen Overlay
 
   **Game Themed Overlay Projects:**
   - [x] Tekken 3 (Mame/SRKade)
@@ -84,8 +81,7 @@
   - [ ] Abes Oddesey
   - [ ] Kill Bill/Wet (The Game)
   - [ ] Speed Freaks
-  - [ ] Tekken 1
-  - [ ] Tekken 2
+  - [ ] Tekken 1, 2
 
 ---
 
@@ -94,7 +90,7 @@
 - 🐦 Twitter: [@SlawSimulation](https://twitter.com/SlawSimulation)
 - 📺 Twitch: [SlawSimulation](https://www.twitch.tv/SlawSimulation)
 - 📹 YouTube: [SlawClips](https://www.youtube.com/@SlawClips)
-- 🎵 Music: [SkyLek on Spotify](https://open.spotify.com/artist/4W0CzPzzNaZzQdZwLUcxIE) | [SoundCloud](https://soundcloud.com/skylek)
+- 🎵 Music: [SkyLek on Spotify](https://open.spotify.com/artist/3ehWHKoqTx95J3JypIoY3X?si=ZN5SZCwgS-GpLy36H3JaFA) | [SoundCloud](https://soundcloud.com/slawpro)
 
 ---
 
