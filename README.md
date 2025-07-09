@@ -92,12 +92,17 @@
 
 ---
 
-### 📣 Let's Connect
+### 📣 My Socials:
 
-- 🐦 Twitter: [@SlawSimulation](https://twitter.com/SlawSimulation)
-- 📺 Twitch: [SlawSimulation](https://www.twitch.tv/SlawSimulation)
-- 📹 YouTube: [SlawClips](https://www.youtube.com/@SlawClips)
+- 🔗 Twitter: [SlawSimulation](https://twitter.com/SlawSimulation), [SlawPro](https://twitter.com/SlawPro)
+- 📺 Twitch: [SlawSimulation](https://www.twitch.tv/SlawSimulation), [SlawPro](https://www.twitch.tv/SlawPro)
+- 📺 YouTube: [SlawClips](https://www.youtube.com/@SlawClips),
 - 🎵 Music: [SkyLek on Spotify](https://open.spotify.com/artist/3ehWHKoqTx95J3JypIoY3X?si=ZN5SZCwgS-GpLy36H3JaFA) | [SoundCloud](https://soundcloud.com/slawpro)
+
+### 📣 DQRetro Socials:
+- 🔗 Twitter: [DQRetro](https://twitter.com/DQRetro)
+- 📺 Twitch: [DQRetro](https://www.twitch.tv/DQRetro)
+- 📺 YouTube: [SlawClips](https://www.youtube.com/@DQRetro)
 
 ---
 
