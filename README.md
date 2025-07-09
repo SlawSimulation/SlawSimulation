@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm SlawPro/SlawSimulation</h1>
 <p align="center">
-  🕹️ FGC Tournament Operator | 🎮 Sim Racing Tools Developer | 🛠️ Twitch overlay creator
+  🕹️ FGC Competitor & Stream Operator | 🏁 Sim Racing Tools Developer | 🟣 Twitch Overlay Creator | Webpage Builder
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 - 👾 Stream operator & occasional tournament organizer for UK-based Tekken Ball events
 - 🛠️ Building custom **Twitch game overlays**, stream widgets and stream automation tools
-- 🌐 Currently working on the **DQRetro website**
+- 🌐 Currently working on the **DQRetro Community Website**
 - 🏁 Planning a return to my **C# iRacing Telemetry Overlay** project (RaceLabs-style overlay for OBS)
 - 🎯 I focus on turning real-time data into polished visual experiences for gaming and streaming
 
@@ -55,20 +55,37 @@
 #### 🏁 **iRacing Telemetry Overlay (C#)**
 - [ ] Redesign WPF UI for modern OBS compatibility
 - [ ] Add real-time data parsing from iRacing SDK
-- [ ] Build modular widgets: speed, gear, lap time, position
+- [ ] Build modular widgets: speed, gear, lap time, position into readable and updatable RAW .txt or JSON files
 - [ ] WebSocket output for use with browser sources in OBS
 - [ ] Compare features with RaceLabs & improve UX
 #### 🖼️ **Game Overlay for Twitch/YouTube**
   **Console Overlay Projects:**
+  - [x] Nintendo Gamecube Overlay (4:3)
   - [x] Playstation 1 Overlay (4:3)
   - [ ] Playstation 2 Overlay (4:3)
-  - [x] Gamecube Overlay (4:3)
+
+  **Portable Console Overlay Projects:**
+  - [x] Nintendo 3DS Overlay
+  - [ ] Nintendo Gameboy Color Overlay
+  - [ ] Nintendo Gameboy Advanced Overlay
+  - [ ] Playstation Portable (PSP) Overlay
+  - [ ] Playstation VITA Overlay
 
   **Personal Overlay Projects:**
   - [x] ProtonicCobra's Overlay Fullscreen
   - [x] ProtonicCobra's Overlay
   - [ ] SlawSimulation's Overlay Fullscreen
   - [ ] SlawSimulation's Overlay
+
+  **Game Themed Overlay Projects:**
+  - [x] Tekken 3 (Mame/SRKade)
+  - [x] Tekken Tag Tournament 1 (Mame/SRKade)
+  - [ ] 007 James Bond, Tomorrow Never Dies
+  - [ ] Abes Oddesey
+  - [ ] Kill Bill/Wet (The Game)
+  - [ ] Speed Freaks
+  - [ ] Tekken 1
+  - [ ] Tekken 2
 
 ---
 
