@@ -74,11 +74,18 @@
   - [x] ProtonicCobra's OG & Alt Main & Fullscreen Overlay
   - [ ] SlawSimulation's OG & Alt Main & Fullscreen Overlay
 
+  **DQRetro Assets:** (Need Uploading)
+  - [x] Starting In... Overlay Template 
+  - [x] Tekken Ball Scoreboard Overlay 
+  - [x] Icons, Logos 
+
   **Game Themed Overlay Projects:**
   - [x] Tekken 3 (Mame/SRKade)
   - [x] Tekken Tag Tournament 1 (Mame/SRKade)
   - [ ] 007 James Bond, Tomorrow Never Dies
   - [ ] Abes Oddesey
+  - [ ] Crash Bandicoot GBA Games
+  - [ ] Crash Bandicoot 1-3 PS1
   - [ ] Kill Bill/Wet (The Game)
   - [ ] Speed Freaks
   - [ ] Tekken 1, 2
