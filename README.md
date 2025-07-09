@@ -46,49 +46,65 @@
 
 ### 🗺️ Project Roadmap
 
-#### 🕹️ **DQRetro Community Website**
-  - [ ] Setup Start.gg API and successfully working
-  - [ ] Build landing page & match archive
-  - [ ] Add player/team bios & event schedule
-  - [ ] Twitch overlay tools (scoreboard, notifications, Tekken Ball HUD)
-  - [ ] OBS control scripts for smoother stream operation
-#### 🏁 **iRacing Telemetry Overlay (C#)**
-  - [ ] Redesign WPF UI for modern OBS compatibility
-  - [ ] Add real-time data parsing from iRacing SDK
-  - [ ] Build modular widgets: speed, gear, lap time, position into readable and updatable RAW .txt or JSON files
-  - [ ] WebSocket output for use with browser sources in OBS
-  - [ ] Compare features with RaceLabs & improve UX
-#### 🖼️ **Game Overlay for Twitch/YouTube**
-  **Console Overlay Projects:**
-  - [x] Nintendo Gamecube Overlay (4:3)
-  - [x] Playstation 1 Overlay (4:3)
-  - [ ] Playstation 2 Overlay (4:3)
+<details>
+  <summary>🕹️ <strong>DQRetro Community Website</strong></summary>
 
-  **Portable Console Overlay Projects:**
-  - [x] Nintendo 3DS Overlay
-  - [ ] Nintendo DS Overlay
-  - [ ] Nintendo Gameboy Color, Advanced
-  - [ ] Playstation Portable (PSP), Vita
+- [ ] Setup Start.gg API and successfully working  
+- [ ] Build landing page & match archive  
+- [ ] Add player/team bios & event schedule  
+- [ ] Twitch overlay tools (scoreboard, notifications, Tekken Ball HUD)  
+- [ ] OBS control scripts for smoother stream operation  
 
-  **Personal Overlay Projects:**
-  - [x] ProtonicCobra's OG & Alt Main & Fullscreen Overlay
-  - [ ] SlawSimulation's OG & Alt Main & Fullscreen Overlay
+</details>
 
-  **DQRetro Assets:** (Need Uploading)
-  - [x] Starting In... Overlay Template 
-  - [x] Tekken Ball Scoreboard Overlay 
-  - [x] Icons, Logos 
+<details>
+  <summary>🏁 <strong>RacingTheMoment iRacing Telemetry Overlay (C#)</strong></summary>
 
-  **Game Themed Overlay Projects:**
-  - [x] Tekken 3 (Mame/SRKade)
-  - [x] Tekken Tag Tournament 1 (Mame/SRKade)
-  - [ ] 007 James Bond, Tomorrow Never Dies
-  - [ ] Abes Oddesey
-  - [ ] Crash Bandicoot GBA Games
-  - [ ] Crash Bandicoot 1-3 PS1
-  - [ ] Kill Bill/Wet (The Game)
-  - [ ] Speed Freaks
-  - [ ] Tekken 1, 2
+- [ ] Redesign WPF UI for modern OBS compatibility  
+- [ ] Add real-time data parsing from iRacing SDK  
+- [ ] Build modular widgets: speed, gear, lap time, position into readable and updatable RAW .txt or JSON files  
+- [ ] WebSocket output for use with browser sources in OBS  
+- [ ] Compare features with RaceLabs & improve UX
+- [ ] Build Community Website
+
+</details>
+
+<details>
+  <summary>🖼️ <strong>Personal/Game Overlays for Streaming/Speedrunning</strong></summary>
+
+**Personal Overlay Projects:**  
+- [x] ProtonicCobra's OG & Alt Main & Fullscreen Overlay  
+- [ ] SlawSimulation's OG & Alt Main & Fullscreen Overlay  
+
+**DQRetro Assets:** (Need Uploading)  
+- [x] Starting In... Overlay Template  
+- [x] Tekken Ball Scoreboard Overlay  
+- [x] Icons, Logos  
+
+
+**Console Overlay Projects:**  
+- [x] Nintendo Gamecube Overlay (4:3)  
+- [x] Playstation 1 Overlay (4:3)  
+- [ ] Playstation 2 Overlay (4:3)  
+
+**Portable Console Overlay Projects:**  
+- [x] Nintendo 3DS Overlay  
+- [ ] Nintendo DS Overlay  
+- [ ] Nintendo Gameboy Color, Advanced  
+- [ ] Playstation Portable (PSP), Vita  
+
+**Game Themed Overlay Projects:**  
+- [x] Tekken 3 (Mame/SRKade)  
+- [x] Tekken Tag Tournament 1 (Mame/SRKade)  
+- [ ] 007 James Bond, Tomorrow Never Dies  
+- [ ] Abes Oddesey  
+- [ ] Crash Bandicoot GBA Games  
+- [ ] Crash Bandicoot 1-3 PS1  
+- [ ] Kill Bill/Wet (The Game)  
+- [ ] Speed Freaks  
+- [ ] Tekken 1, 2  
+
+</details>
 
 ---
 
