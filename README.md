@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm SlawPro/SlawSimulation</h1>
 <p align="center">
-  🕹️ FGC Competitor & Stream Operator | 🏁 Sim Racing Tools Developer | 🟣 Twitch Overlay Creator | Webpage Builder
+  🕹️ FGC Competitor | 🖥️ Stream Operator | 🏁 Simulator Tools Developer | 🟣 Twitch Overlay Creator | 🌐 Webpage Builder
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 - 👾 Stream operator & occasional tournament organizer for UK-based Tekken Ball events
 - 🛠️ Building custom **Twitch game overlays**, stream widgets and stream automation tools
-- 🌐 Currently working on the **DQRetro Community Website**
+- 🌐 Currently working on the **DQRetro Community Website** and various other little projects
 - 🏁 Planning a return to my **C# iRacing Telemetry Overlay** project (RaceLabs-style overlay for OBS)
 - 🎯 I focus on turning real-time data into polished visual experiences for gaming and streaming
 
@@ -20,6 +20,7 @@
 - 🟣 Creating Twitch overlays, scoreboard systems and stream layouts
 - 🌐 Frontend development for the DQRetro website
 - 🏁 Planning the reboot of my iRacing telemetry tool in C#
+- 📚 Working on the Tekken Ball Trivia Program based in HTML
 
 ---
 
@@ -120,11 +121,10 @@
   @Player1 uses !hit, ball speed is 80!
   @Player2 tries to !return… Miss! Takes 12 HP damage!
   
-  ✅ Easy to start with basic math + text output
-  🔥 Could expand into 2v2, special moves, ball types
+  Could expand into 2v2, special moves, ball types
 
 
-- **Tekken Ball Trivia**
+- [**Tekken Ball Trivia**](https://slawsimulation.github.io/Tekken-Ball-Trivia/)
   Posts trivia questions like:
   "Which game introduced Tekken Ball first?"
   "True or False: You can KO your opponent with the ball alone."
