@@ -106,6 +106,112 @@
 
 </details>
 
+<details>
+  <summary>🛠️ <strong>Other Ideas & Concepts</strong></summary>
+
+- Tekken Ball Mini Game Bot (Turn-Based in Text)
+  Players take turns typing !serve, !hit, !smash, etc.
+  
+  Bot calculates ball trajectory and damage.
+  Tracks HP like a mini-RPG (each ball hit does damage).
+  Could have randomness (critical smash!, ball whiffed!)
+
+  Example:
+  @Player1 uses !hit, ball speed is 80!
+  @Player2 tries to !return… Miss! Takes 12 HP damage!
+  
+  ✅ Easy to start with basic math + text output
+  🔥 Could expand into 2v2, special moves, ball types
+
+
+- **Tekken Ball Trivia**
+  Posts trivia questions like:
+  "Which game introduced Tekken Ball first?"
+  "True or False: You can KO your opponent with the ball alone."
+
+  
+- **Tekken Ball Leaderboard**
+  Players use !ballwin or !ballloss to log results.
+  Keeps a public scoreboard for most wins, streaks, etc.
+  Could integrate ELO rating later if wanted.
+
+  
+- **Tekken Ball Stat Tracker**
+  Web form to log matches: who won, score, characters used.
+  Displays stats like:
+  Most used characters
+  Average win rate
+  Longest win streak
+
+  
+- **Tekken Ball Rebound Simulator**
+  Visual tool that shows how ball speed affects bounce/trajectory.
+  Use basic JS canvas or p5.js.
+  Could be pure educational or meme physics fun.
+
+
+- **Tekken Ball Fan Wiki**
+  GitHub Pages site with:
+  Rules for Tekken Ball
+  Tier list of who’s best in Ball mode
+  Strategy guide: "Best characters for ball damage"
+
+
+- **Tekken Ball Damage Calculator**
+  Input: Character, Move, Ball Speed
+  Output: Estimated damage dealt to opponent
+  Based on simplified rules, multipliers, and ball impact values.
+
+
+- **Custom Tekken Ball Challenge Generator
+  Randomly creates a fun or ridiculous Ball Mode challenge.
+
+  Example output:**
+  “Use only lows and side-steps.”
+  “You must taunt before each hit.”
+  “Each round you win, change characters.”
+
+
+- **"Tekken Ball Replays as ASCII"**
+  Store simple Tekken Ball match data and output replays in ASCII format.
+
+
+- **“Ball Mode Coaching Bot”**
+  You DM it your character, who you’re playing against, and it gives tips:
+  “Against Paul, stay low and smash when he charges.”
+  Could be a static rule-based system or fake GPT-style advice bot.
+
+
+- **Tekken Ball Emoji Reactions Bot**
+  Discord bot that reacts with random emojis whenever someone mentions:
+  ball, smash, serve, etc.
+  Could react with 🔴, 💥, 🤯, 🏓, etc.
+  Easy to build and fun for chaotic chats.
+
+
+  - **Tekken Ball Combo Generator**
+  You input a character, it gives a randomized combo ending in a ball hit.
+  e.g., “df1 → 1 → 3+4 → ball spike”
+  Could be silly or functional.
+
+  
+  -** “How Tekken Ball Are You?” Quiz**
+  Host a silly quiz on GitHub Pages or Discord:
+  “Do you like chaos?”
+  “Are you a masher?”
+  “Do you fear projectiles?”
+  Result: “You are 73% Tekken Ball.”
+
+  
+  -**"Ball Character Weakness Analyzer"**
+  Web app where you select a character and it shows:
+  “Weak to: fast projectiles, low launchers”
+  “Ball mode tip: struggles with wall bounce recovery”
+  Could be community-voted via GitHub issues or markdown.
+
+</details>
+
+
 ---
 
 ### 📣 My Socials:
