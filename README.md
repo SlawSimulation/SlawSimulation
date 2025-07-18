@@ -129,6 +129,12 @@
   "Which game introduced Tekken Ball first?"
   "True or False: You can KO your opponent with the ball alone."
 
+- **“How Tekken Ball Are You?” Quiz**
+  Host a silly quiz on GitHub Pages or Discord:
+  “Do you like chaos?”
+  “Are you a masher?”
+  “Do you fear projectiles?”
+  Result: “You are 73% Tekken Ball.”
   
 - **Tekken Ball Leaderboard**
   Players use !ballwin or !ballloss to log results.
@@ -163,10 +169,10 @@
   Based on simplified rules, multipliers, and ball impact values.
 
 
-- **Custom Tekken Ball Challenge Generator
+- **Tekken Ball Challenge Generator**
   Randomly creates a fun or ridiculous Ball Mode challenge.
 
-  Example output:**
+  **Example output:**
   “Use only lows and side-steps.”
   “You must taunt before each hit.”
   “Each round you win, change characters.”
@@ -176,7 +182,7 @@
   Store simple Tekken Ball match data and output replays in ASCII format.
 
 
-- **“Ball Mode Coaching Bot”**
+- **Tekken Ball Coaching Bot**
   You DM it your character, who you’re playing against, and it gives tips:
   “Against Paul, stay low and smash when he charges.”
   Could be a static rule-based system or fake GPT-style advice bot.
@@ -189,21 +195,13 @@
   Easy to build and fun for chaotic chats.
 
 
-  - **Tekken Ball Combo Generator**
+-  **Tekken Ball Combo Generator**
   You input a character, it gives a randomized combo ending in a ball hit.
   e.g., “df1 → 1 → 3+4 → ball spike”
   Could be silly or functional.
 
   
-  -** “How Tekken Ball Are You?” Quiz**
-  Host a silly quiz on GitHub Pages or Discord:
-  “Do you like chaos?”
-  “Are you a masher?”
-  “Do you fear projectiles?”
-  Result: “You are 73% Tekken Ball.”
-
-  
-  -**"Ball Character Weakness Analyzer"**
+- **"Ball Character Weakness Analyzer"**
   Web app where you select a character and it shows:
   “Weak to: fast projectiles, low launchers”
   “Ball mode tip: struggles with wall bounce recovery”
