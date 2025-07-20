@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm SlawPro/SlawSimulation</h1>
+<h1 align="center">Hey 👋, I'm SlawSimulation</h1>
 <p align="center">
   🕹️ FGC Competitor | 🖥️ Stream Operator | 🏁 Simulator Tools Developer | 🟣 Twitch Overlay Creator | 🌐 Webpage Builder
 </p>
